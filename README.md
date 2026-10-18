@@ -1,1 +1,1 @@
-# ${{ github.event.repository.name }}
+# [](/docs/setup.md)
