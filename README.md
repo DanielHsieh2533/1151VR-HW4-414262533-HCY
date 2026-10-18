@@ -1,1 +1,1 @@
-# [](/docs/setup.md)
+# [](README.md)
