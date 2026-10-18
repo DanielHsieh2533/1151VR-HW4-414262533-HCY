@@ -1,4 +1,4 @@
-![img](prtsc)
+![img](prtsc.jpg)
 
 https://github.com/DanielHsieh2533/1151VR-HW4-414262533-HCY
 
